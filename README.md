@@ -1,4 +1,4 @@
-## configandextensionsvscode
+## Config and extensions vscode for environment developer ##
 
 **Dowload Setup's**
 
@@ -35,3 +35,5 @@ settings.json
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs":"active"
 }
+
+[@author](https://github.com/rodrigosouzamail)
